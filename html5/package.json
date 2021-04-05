@@ -1,0 +1,30 @@
+{
+  "name": "html5-gamedev-intro",
+  "version": "0.1.0",
+  "description": "Intro to Game Development using HTML5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablogo1/game-dev-intro.git"
+  },
+  "keywords": [
+    "gamedev",
+    "canvas"
+  ],
+  "author": "Pablo Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablogo1/game-dev-intro/issues"
+  },
+  "homepage": "https://github.com/pablogo1/game-dev-intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.12.0"
+  }
+}
