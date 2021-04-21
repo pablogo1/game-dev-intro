@@ -1,4 +1,4 @@
-var common = (function () {
+let common = (function () {
     const degrees = Math.PI / 180;
 
     return {
